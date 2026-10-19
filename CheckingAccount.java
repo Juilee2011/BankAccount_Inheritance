@@ -1,4 +1,4 @@
-package Bank;
+package Bank.BankAccount_Inheritance;
 
 public class CheckingAccount extends BankAccount 
 {

@@ -1,5 +1,9 @@
 package Bank.BankAccount_Inheritance;
 
-public class Bankgui {
+import javax.swing.JFrame;
+
+public class TestGUI 
+{
+    JFrame frame = new JFrame("Test");
     
 }

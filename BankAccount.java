@@ -5,9 +5,6 @@ public class BankAccountTest
         //declare variables
         private double balance;
         private String accountNumber;
-        private String choice;
-        private double add;
-        private double withdraw;
 
         //methods to access the balance and accountNumber
         public double getBalance()

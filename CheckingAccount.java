@@ -1,6 +1,6 @@
 package Bank.BankAccount_Inheritance;
 
-public class CheckingAccount extends BankAccount 
+public class CheckingAccount extends BankAccountTest 
 {
     //declare variables
     private boolean isDirectDeposit;

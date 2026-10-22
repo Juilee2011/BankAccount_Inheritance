@@ -1,6 +1,6 @@
 package Bank.BankAccount_Inheritance;
 
-public class SavingsAccount extends BankAccountTest
+public class SavingsAccount extends BankAccount
 {
     //declare variables
     private double interest;

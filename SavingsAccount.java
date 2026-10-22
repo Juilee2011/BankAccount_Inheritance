@@ -3,14 +3,15 @@ package Bank.BankAccount_Inheritance;
 public class SavingsAccount extends BankAccountTest
 {
     //declare variables
-    private double interestRate;
+    private double interest;
     private double minimumBalance;
     private int withdrawCount;
 
     //returns the values of the variables
     public double getInterestRate()
     {
-        return interestRate;
+        interest = 10.0;
+        return interest;
     }
     public double getMinimumBalance()
     {
@@ -19,12 +20,6 @@ public class SavingsAccount extends BankAccountTest
     public int getWithdrawCount()
     {
         return withdrawCount;
-    }
-    
-    //this method calculates the interest
-    public void calculateInterest()
-    {
-        //add code to calculate interest!!
     }
 
 

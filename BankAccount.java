@@ -1,6 +1,6 @@
-package Bank.BankAccount_Inheritance;
+package BankAccount_Inheritance;
 
-public class BankAccountTest
+public class BankAccount
 {  
         //declare variables
         private double balance;

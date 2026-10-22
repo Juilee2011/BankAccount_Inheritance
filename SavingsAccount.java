@@ -1,4 +1,4 @@
-package Bank.BankAccount_Inheritance;
+package BankAccount_Inheritance;
 
 public class SavingsAccount extends BankAccount
 {
@@ -8,7 +8,7 @@ public class SavingsAccount extends BankAccount
     private int withdrawCount;
 
     //returns the values of the variables
-    public double getInterestRate()
+    public double getInterest()
     {
         interest = 10.0;
         return interest;
